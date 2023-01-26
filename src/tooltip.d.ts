@@ -1,7 +1,7 @@
 // Type definitions for react-native-walkthrough-tooltip 1.0.0
 // Original definitions by: Siraj Alam https://github.com/sirajalam049
 
-declare module 'react-native-walkthrough-tooltip' {
+declare module 'react-native-walkthrough-tooltip-tomas-sestak-fork' {
   import React from 'react';
   import { GestureResponderEvent, StyleProp, ViewStyle, ViewProps } from 'react-native';
 
