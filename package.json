@@ -1,5 +1,5 @@
 {
-  "name": "react-native-walkthrough-tooltip",
+  "name": "react-native-walkthrough-tooltip-tomas-sestak-fork",
   "version": "1.5.0",
   "description": "An inline wrapper for calling out React Native components via tooltip - TomasSestak fork",
   "main": "src/tooltip.js",
@@ -14,9 +14,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TomasSestak/react-native-walkthrough-tooltip/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/TomasSestak/react-native-walkthrough-tooltip#readme",
   "keywords": [
