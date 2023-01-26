@@ -390,6 +390,7 @@ class Tooltip extends Component {
             },
             this.props.childrenWrapperStyle,
           ]}
+          {...this.props.childrenWrapperProps}
         >
           {this.props.children}
         </View>
@@ -485,7 +486,6 @@ class Tooltip extends Component {
             ref={this.childWrapper}
             onLayout={this.measureChildRect}
             style={this.props.parentWrapperStyle}
-            {...this.props.childrenWrapperProps}
           >
             {children}
           </View>

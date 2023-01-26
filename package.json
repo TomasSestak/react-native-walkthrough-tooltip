@@ -1,6 +1,6 @@
 {
   "name": "react-native-walkthrough-tooltip-tomas-sestak-fork",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "An inline wrapper for calling out React Native components via tooltip - TomasSestak fork",
   "main": "src/tooltip.js",
   "scripts": {
